@@ -1,0 +1,6 @@
+
+.serviceBoxContainer:hover {
+    transition: all 700ms ease-in-out;
+    color: rgb(13, 204, 150);
+  }
+  
